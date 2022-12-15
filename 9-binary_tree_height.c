@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 
-/**
+/* **
  * count_tree_left - counts the number of levels in the tree
  * @tree: the pointer to the node
  * Return: number of levels
